@@ -4,20 +4,24 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Cloud Implementation Strategies and Cloud Providers
 
-- Course 3
+- Statistical Learning
 
-- Course 4
+- Data Analytics Capstone 2
+
+- Time Series Modeling and Forecasting
+
+- Data Warehousing
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reptiles
 
-- Thing 2
+- Math
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Florida Poly
