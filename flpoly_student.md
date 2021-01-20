@@ -1,6 +1,6 @@
-## First Name Last Name
+## Nicole Ely
 
-### Term Year 
+### Spring 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
